@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FindYourRoute</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Button text -->
+    <string name="btn_logout_from_google">Logout from Gmail</string>
+    <string name="btn_revoke_access">Revoke Access</string>
+    <string name="loading">loading</string>
+    <string name="viewRoutes">View Routes</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="facebook_app_id">301296353640833</string>
+</resources>

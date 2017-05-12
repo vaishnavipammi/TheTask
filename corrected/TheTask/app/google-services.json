@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "383667364666",
+    "project_id": "thetask-164615"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383667364666:android:07d7bde56ded2e78",
+        "android_client_info": {
+          "package_name": "com.example.thetask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383667364666-btuhc4g1g23jinjjbbcv6ip6p62holr0.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "383667364666-gm94iapmqnve5n1cuh55ou3bptj9obva.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.thetask",
+            "certificate_hash": "038fe8b43ec9c092ab7e9b293ee8e2a3dc52ba19"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhvD1OkIi2pMG5roqALGFy7BenxzI9H6w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
